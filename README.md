@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas no SENAI Diadema, com interesse em **backend, sistemas embarcados e IoT**.
 
-Gosto de entender como as coisas funcionam por baixo e de transformar código em sistemas que realmente fazem alguma coisa. Atualmente estudo **Python, APIs, bancos de dados, ESP32 e comunicação entre software e hardware**.
+Atualmente estudo **Python, APIs, bancos de dados, ESP32 e comunicação entre software e hardware**, com interesse em desenvolver sistemas que conectem software a dispositivos e aplicações do mundo real.
 
 ### Interesses
 
