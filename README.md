@@ -1,31 +1,31 @@
 # Nicolas Quirino
 
-Software Developer student at SENAI, focused on distributed systems, high-performance backend, and infrastructure.
+Estudante de Desenvolvimento de Sistemas no SENAI, focado em **sistemas distribuídos**, **backend de alta performance** e **infraestrutura**.
 
 ---
 
-### ⚙️ Core Focus
-- **Distributed Systems & Performance:** Scalable architectures, data integrity, and low-latency services.
-- **Current Work:** Designing resilient backends and contributing to open-source infrastructure tools.
-- **Languages & Technologies:** Go, Rust, Python, Docker, Distributed Databases, Linux Internals.
+### ⚙️ Foco Principal
+- **Sistemas Distribuídos & Performance:** Arquiteturas escaláveis, integridade de dados e microsserviços de baixa latência.
+- **Atuação Atual:** Construindo backends resilientes e contribuindo com ferramentas open source de infraestrutura.
+- **Áreas de Estudo:** Bancos de dados distribuídos, Linux Internals, redes e concorrência.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
-| Domain | Technologies |
+| Área | Tecnologias |
 | :--- | :--- |
-| **Languages** | `Python` · `Kotlin` · `C++` · `JavaScript` |
-| **Data & Storage** | `PostgreSQL` · `MySQL` · `SQLite` |
+| **Linguagens** | `Python` · `Kotlin` · `C++` · `JavaScript` |
+| **Banco de Dados** | `PostgreSQL` · `MySQL` · `SQLite` |
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projetos em Destaque
 
-- **[project-name](https://github.com)**
-- **[another-tool](https://github.com)** 
+- **[nome-do-projeto](https://github.com)** — Breve descrição em uma linha do que o projeto resolve.
+- **[outra-ferramenta](https://github.com)** — Breve descrição em uma linha do que o projeto resolve.
 
 ---
 
-### 🌐 Connect
-[LinkedIn](https://linkedin.com/in/seu-usuario) · [Email](mailto:seuemail@dominio.com) · [X / Twitter](https://x.com/seu-usuario)
+### 🌐 Contato
+[LinkedIn](https://linkedin.com/in/seu-usuario) · [E-mail](mailto:seuemail@dominio.com) · [X / Twitter](https://x.com/seu-usuario)
