@@ -1,12 +1,8 @@
 # Nicolas Quirino
 
-Estudante de Desenvolvimento de Sistemas no SENAI Diadema, com interesse em **backend, sistemas embarcados e IoT**.
+Estudante de Desenvolvimento de Sistemas no SENAI Diadema, com foco em **backend, sistemas embarcados e IoT**.
 
-Atualmente estudo **Python, APIs, bancos de dados, ESP32 e comunicação entre software e hardware**, com interesse em desenvolver sistemas que conectem software a dispositivos e aplicações do mundo real.
-
-### Interesses
-
-Backend · APIs · IoT · Sistemas Embarcados · ESP32 · Automação · Software + Hardware
+Desenvolvo projetos conectando software ao mundo real, utilizando **Python, APIs, bancos de dados e ESP32** para automação e comunicação entre dispositivos.
 
 ### Tech Stack
 
@@ -23,12 +19,14 @@ Backend · APIs · IoT · Sistemas Embarcados · ESP32 · Automação · Softwar
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
-**Ferramentas**
+**Ferramentas & Ambiente**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### Contato
 
